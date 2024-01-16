@@ -1,6 +1,0 @@
-For Using Streamlit - ( run command pip install streamlit )
-For PDF Reader  (pip install PyPDF2)
-for importing docx (pip install python-docx)
-for importing zipfile (pip install zipfile)
-from dotenv import load_dotenv (pip install dot-env)
-from langchain.embeddings import HuggingFaceEmbeddings 
